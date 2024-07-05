@@ -6,11 +6,11 @@
 ## 몰입할 때 참고했던 서적과 교육 
 > ### 📚 참고 서적 및 사이트 
 > ### 1. 자바의 정석 3판
->        (https://product.kyobobook.co.kr/detail/S000001550352)
+> 도서 링크 : (https://product.kyobobook.co.kr/detail/S000001550352)
 > ### 2. 이펙티브 자바
->        (https://product.kyobobook.co.kr/detail/S000001033066)
+> 도서 링크 : (https://product.kyobobook.co.kr/detail/S000001033066)
 > ### 3. 자바언어로 배우는 디자인 패턴 입문
->        (https://product.kyobobook.co.kr/detail/S000200311846)
+> 도서 링크 : (https://product.kyobobook.co.kr/detail/S000200311846)
 > ### 4. 남궁성의 백엔드 데브 캠프 1기(AI 융합) 
 
 
